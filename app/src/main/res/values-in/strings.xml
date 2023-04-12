@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Peta</string>
+    <string name="hello_blank_fragment">Hallo</string>
+    <string name="maps_nav">Peta</string>
+    <string name="compass_nav">Kompas</string>
+    <string name="language_nav">Bahasa</string>
+    <string name="change_language">Ganti Bahasa</string>
+</resources>
